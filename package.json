@@ -1,0 +1,15 @@
+{
+  "name": "fixsy",
+  "version": "1.0.0",
+  "description": "Fix Bugs. Find Love.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Shubham Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
